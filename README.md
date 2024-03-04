@@ -13,8 +13,7 @@ As the hostel also provides us with cloak room service to keep our valuables , w
 
 The following is the ER Diagram used as reference to build the project.
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/Dhruv-Garodia/hostel_database_system/blob/main/er_dig2.png?raw=true))
-
+![App Screenshot](https://raw.githubusercontent.com/Dhruv-Garodia/hostel_database_system/main/er_dig2.png)
 #### Note :- Only for reference, not stricktly followed.
 
 
