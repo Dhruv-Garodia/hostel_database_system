@@ -38,7 +38,7 @@ Dhruv Jyoti Garodia
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/Dhruv-Garodia/hostel_database_system/main/frontend.png)
 
 
 ## Run Locally
